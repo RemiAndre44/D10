@@ -1,0 +1,10 @@
+.idea/
+mutagen.yml.lock
+.vscode
+/web/core
+/web/modules/contrib
+/web/profiles
+/web/sites
+/web/themes/contrib
+/vendor
+/tests
